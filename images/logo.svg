@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320mm"
+   height="350mm"
+   viewBox="0 0 320 350"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="dessin.svg.2022_03_26_21_10_37.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.27803778"
+     inkscape:cx="735.51156"
+     inkscape:cy="622.2176"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     width="320mm" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3898"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#005278;stop-opacity:1;"
+         offset="0"
+         id="stop3896" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path88"
+       style="opacity:1;mix-blend-mode:normal;fill:#37abc8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-rule:nonzero"
+       d="M 157.68919,26.618408 75.387749,171.3367 l 82.265781,42.45374 82.13504,-42.53797 z m -0.1695,62.796683 39.27719,68.605629 -39.17901,20.63491 -39.32214,-20.63491 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2">
+    <path
+       id="path274"
+       style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.82094,211.73305 -27.35877,-14.03623 49.95948,86.35853 49.95949,-86.35853 -27.35877,14.03623 -22.5599,39.22379 z"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Calque 3">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Media Times';-inkscape-font-specification:'Media Times';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.64506"
+       y="313.55524"
+       id="text3913"><tspan
+         sodipodi:role="line"
+         id="tspan3911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Media Times';-inkscape-font-specification:'Media Times';stroke-width:0.264583"
+         x="26.64506"
+         y="313.55524" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:0.95;font-family:sans-serif;letter-spacing:1.32292px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.265816"
+       y="314.0311"
+       id="text6909"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Media Times';-inkscape-font-specification:'Media Times';stroke-width:0.264583"
+         x="83.265816"
+         y="314.0311"
+         id="tspan12065">MY company</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.529167px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.838402"
+       y="330.20844"
+       id="text14905"><tspan
+         id="tspan14903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Media Times';-inkscape-font-specification:'Media Times';stroke-width:0.264583"
+         x="81.838402"
+         y="330.20844"
+         sodipodi:role="line">short description here</tspan></text>
+  </g>
+</svg>
